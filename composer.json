@@ -1,0 +1,13 @@
+{
+    "name": "regionhalland/region-halland-tree-all-levels-vardgivare",
+    "description": "Navigationsträd för vårdgivare.regionhalland.se",
+    "type": "wordpress-plugin",
+    "license": "GPL-3.0",
+    "authors": [
+        {
+            "name": "Roland Hydén",
+            "email": "Roland.Hyden@Regionhalland.se"
+        }
+    ],
+    "require": {}
+}
